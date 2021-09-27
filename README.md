@@ -6,7 +6,6 @@
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png" alt="arduino" width="50" height="45"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>   
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png" alt="python" width="30" height="30"/></p><p align="center">
